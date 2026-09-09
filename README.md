@@ -248,4 +248,4 @@ This repository serves as the official landing page for Dragon City. The softwar
 **Get the most recent version of Dragon City today!**
 
 ---
-**Last updated:** 2026-09-08 23:18:04 UTC
+**Last updated:** 2026-09-09 03:59:46 UTC
